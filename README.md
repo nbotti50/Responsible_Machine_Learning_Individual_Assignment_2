@@ -42,7 +42,7 @@ To reproduce the results of this analysis, follow the steps below:
    Run the following command in a notebook cell or terminal:
 
    ```python
-   !pip install pandas numpy matplotlib scikit-learn lifelines
+   !pip install pandas numpy matplotlib scikit-learn lifelines lime shap dice-ml
 2. **Download .ipynb file and run all cells**
 3. **Review the findings in a high-level summary in the Governance Memo**
 4. **Note: No manual download of files is required. URLs retrieve data in the notebook, getting CSV files from another GitHub repository: https://github.com/propublica/compas-analysis/tree/master**
