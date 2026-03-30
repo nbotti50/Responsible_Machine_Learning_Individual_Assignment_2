@@ -4,7 +4,7 @@
 
 The purpose of the second individual assignment involves evaluating the fairness and predictive performance of the COMPAS risk assessment. The analysis examines recidivism outcomes across demographic groups, specifically comparing African-American defendants to White defendants. Explainability tools identify why the model assigns specific scores and determine if bias exists.
 
-This analysis used statistical tools such as logistic regression, Cox proportional hazards models, and Kaplan-Meier survival analysis to deeply investigate how well the model predicts recidivism and if those predictions are consistent across groups. Additionally, explainability tools such as DiCE, SHAP, and Lime were used to identify feature influence in the predictions the model outputs. Here is how these tools were used more specifically: 
+This analysis used statistical tools such as logistic regression, Cox proportional hazards models, and Kaplan-Meier survival analysis to deeply investigate how well the model predicts recidivism and if those predictions are consistent across groups. Additionally, explainability tools such as DiCE, SHAP, and LIME were used to identify feature influence in the predictions the model outputs. Here is how these tools were used more specifically: 
 
 - Logistic Regression was used to model the likelihood of a defendant receiving a high COMPAS risk score, while controlling for factors such as age, prior offenses, gender, and race. This helped identify whether certain groups were more likely to be assigned higher risk scores, holding other variables constant.
 
