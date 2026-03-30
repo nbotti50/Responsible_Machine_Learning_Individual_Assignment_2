@@ -1,4 +1,4 @@
-# Responsible_Machine_Learning_Individual_Assignment_1 - COMPAS Analysis
+# Responsible_Machine_Learning_Individual_Assignment_2 - COMPAS Analysis
 
 ## The Purpose of the Analysis
 
